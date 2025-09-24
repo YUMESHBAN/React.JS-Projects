@@ -9,13 +9,19 @@ This repository contains multiple React projects covering topics such as **state
 Below is a list of React projects currently available in this repository:  
 
 1. **FlashCard**  
-   - The flashcard comprises six questions that, when clicked, revealed needed answers.  
+   - A flashcard app with six questions. Clicking a card reveals the corresponding answer.
 
 2. **Date Counter**  
-   - A simple project containing counts and steps to play with the current date.  
- 
+   - A simple project to manipulate and explore date changes using steps and counts.
 
-More projects coming soon!  
+3. **Packed and Ready**  
+   - A travel packing list app to track items you're taking and whether they're packed or not.
+
+4. **Pizza Menu**  
+   - A dynamic pizza menu UI displaying various pizzas with descriptions and availability.
+
+> 💡 *More projects coming soon! Stay tuned.*
+ 
 
 ## 🛠 How to Use  
 1. Clone this repository:  
